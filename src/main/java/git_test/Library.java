@@ -5,9 +5,10 @@ package git_test;
 
 public class Library {
     public boolean someLibraryMethod() {
-    	/*aaaaaaaaaaaaaaaa
+    	/*aaaaaaaabbbbbbbb
     	 * bbbbbbbbbbbbbbb
-    	 * ccccccccccccccc*/
+    	 * ccccccccccccccc
+    	 * ddddddddddddddd*/
         return true;        
     }
 }
