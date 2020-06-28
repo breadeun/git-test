@@ -5,8 +5,8 @@ package git_test;
 
 public class Library {
     public boolean someLibraryMethod() {
-    	// push hatjana!!
-    	// push hatjana!!
+    	//bbbbbb!
+    	//aaaaaa!
     	// push hatjana!!
     	// push hatjana!!
     	// push hatjana!!
