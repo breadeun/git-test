@@ -5,6 +5,9 @@ package git_test;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
+    	/*aaaaaaaaaaaaaaaa
+    	 * bbbbbbbbbbbbbbb
+    	 * ccccccccccccccc*/
+        return true;        
     }
 }
