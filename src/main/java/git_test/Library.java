@@ -7,6 +7,9 @@ public class Library {
     public boolean someLibraryMethod() {
     	// push hatjana!!
     	// push hatjana!!
+    	// push hatjana!!
+    	// push hatjana!!
+    	// push hatjana!!
         return true;
     }
 }
