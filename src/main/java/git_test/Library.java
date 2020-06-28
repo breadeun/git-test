@@ -5,11 +5,9 @@ package git_test;
 
 public class Library {
     public boolean someLibraryMethod() {
-    	//bbbbbb!
-    	//aaaaaa!
-    	// push hatjana!!
-    	// push hatjana!!
-    	// push hatjana!!
+    	/* aaaa 
+    	 * bbbb
+    	 * cccc */
         return true;
     }
 }
